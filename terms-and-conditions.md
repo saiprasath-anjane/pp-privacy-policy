@@ -1,3 +1,9 @@
+---
+title: "Terms and Conditions"
+layout: default
+permalink: /terms/
+---
+
 # Terms and Conditions
 
 **Last Updated: [Date]**

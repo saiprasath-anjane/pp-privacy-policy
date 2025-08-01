@@ -1,3 +1,9 @@
+---
+title: "Privacy Policy"
+layout: default
+permalink: /privacy-policy/
+---
+
 # Privacy Policy
 
 **Last Updated: [Date]**
